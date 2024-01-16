@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: myapp:0.1
+        image: leventozbingollu/demo:0.1
         ports:
                 - containerPort: 80
